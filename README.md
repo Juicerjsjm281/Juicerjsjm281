@@ -1,4 +1,4 @@
-<h1 align="center">print(Hello World! I'm Juicer)</h1>
+<h1 align="center">print("Hello World! I'm Juicer")</h1>
 <h3 align="center">Learning numerical simulation, finite elements with Python and data analysis</h3>
 
 ---
