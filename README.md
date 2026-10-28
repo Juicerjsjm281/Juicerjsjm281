@@ -31,7 +31,7 @@
 
 A collection of exercises I used to practice what I'm learning:
 - [Pendulums](https://github.com/Juicerjsjm281/Simulations-Physics-Practice): Practicing Runge-Kutta 4th method for pendulums.
-- [finite-elemnt/](https://github.com/Juicerjsjm281/Simulations-Physics-Practice): I'm still learning, so there's no exercise uploaded yet. I'll upload it once I know how to read nodes and lines from the .msh file.
+- [finite-element/](https://github.com/Juicerjsjm281/Simulations-Physics-Practice): I'm still learning, so there's no exercise uploaded yet. I'll upload it once I know how to read nodes and lines from the .msh file.
 
 ---
 
